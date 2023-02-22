@@ -1,0 +1,5 @@
+git status
+git add * (oppure il nome del file)
+git commit -a -m "inserire un messaggio"
+git push
+git pull
