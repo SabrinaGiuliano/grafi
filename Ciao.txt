@@ -3,3 +3,7 @@ git add * (oppure il nome del file)
 git commit -a -m "inserire un messaggio"
 git push
 git pull
+
+se mando il link possono vederla 
+per aggiungere i contributors
+da github
