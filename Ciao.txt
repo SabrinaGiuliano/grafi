@@ -7,3 +7,10 @@ git pull
 se mando il link possono vederla 
 per aggiungere i contributors
 da github
+
+per clonare una repository in una cartella. Mi metto nella cartella, apro il prompt dei comandi (cmd) e faccio:
+
+git clone https://github.com/SabrinaGiuliano/grafi.git
+
+questo link è stato copiato dal sito on line
+
